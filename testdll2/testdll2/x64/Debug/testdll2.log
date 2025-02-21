@@ -1,0 +1,3 @@
+﻿  LINK : не найден или не выполнена сборка C:\Users\sanek2005\source\repos\TestFramework\testdll2\..\testlibs\x64\Debug\testdll2.dll при последней инкрементной компоновке; выполняется полная компоновка
+     Создается библиотека C:\Users\sanek2005\source\repos\TestFramework\testdll2\..\testlibs\x64\Debug\testdll2.lib и объект C:\Users\sanek2005\source\repos\TestFramework\testdll2\..\testlibs\x64\Debug\testdll2.exp
+  testdll2.vcxproj -> C:\Users\sanek2005\source\repos\TestFramework\testlibs\x64\Debug\testdll2.dll
